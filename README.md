@@ -1,6 +1,14 @@
 # Leinster Golf Database Project
 
-## Description
+## Repository Contents
+The repository contains 2 main files:
+
+* mySQL code
+* Report of Database
+
+Further information and details of this project can be seen in the report.
+
+## Application Description
 This repository represents the files used as part of a mySQL database project to represent an application of choice. The information system I have decided to model is based on the golfing community in the Leinster region. Within the golfing community, I have designed the following entities:
 
 * Player
@@ -46,10 +54,3 @@ The mySQL code produced creates and implements this database using appropriate S
 * Roles and Permissions (Security)
 * Custom Functions
 
-## Repository Contents
-The repository contains 2 main files:
-
-* mySQL code
-* Report of Database
-
-Further information and details of this project can be seen in the report.
